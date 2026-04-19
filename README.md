@@ -38,3 +38,11 @@ LLM (Ollama - Llama3)
      ↓
 Final Answer
 ```
+
+---
+
+## 🔧 Setup
+
+```bash
+pip install -r requirements.txt
+```
